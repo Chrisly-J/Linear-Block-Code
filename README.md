@@ -97,6 +97,11 @@ print("The correct codeword is :", *(err + rc[0]))
 ```
 # Calculation
 
+<img width="910" height="1461" alt="image" src="https://github.com/user-attachments/assets/0a7fe592-afce-43e2-b720-c2582d824896" />
+<img width="1017" height="1600" alt="image" src="https://github.com/user-attachments/assets/c0fbe38d-3845-4cfa-bf13-1ec9f508b749" />
+<img width="2736" height="1857" alt="image" src="https://github.com/user-attachments/assets/312d999c-836f-4b40-a739-83b841c602fd" />
+
+
 # Output Waveform
 
 <img width="632" height="1072" alt="image" src="https://github.com/user-attachments/assets/a3ea4889-53d0-431d-afca-b378998ede1b" />
@@ -106,4 +111,3 @@ print("The correct codeword is :", *(err + rc[0]))
 
 Hence,the Linear Block Code was executed and tesed successfully.
 
-# Hardware experiment output waveform.
